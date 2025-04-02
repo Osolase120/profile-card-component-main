@@ -13,8 +13,8 @@ body {
 
 .bg-pattern-top {
     height: 50rem;
-    margin-top: -330px;
-    margin-left: -140px;
+    margin-top: -400px;
+    margin-left: -30px;
 }
 
 
@@ -22,7 +22,7 @@ body {
 .bg-pattern-card {
    position: relative;
    top: -250px;
-   left: 590px;
+   left: 650px;
    border-top-left-radius: 10px;
    border-top-right-radius: 10px;
    z-index: 99;
@@ -31,7 +31,7 @@ body {
 .second-div {
     position: relative;
     top: -260px;
-    left: 590px;
+    left: 650px;
     height: 260px;
     width: 350px;
     border: 1px solid  hsl(0, 0%, 100%);
@@ -44,15 +44,15 @@ body {
     height: 50rem;
     /* width: 20rem; */
     position: relative;
-    top: -400px;
-    left: 780px;
+    top: -480px;
+    left: 900px;
     z-index:  -99;
 }
 
 .image-victor {
     position: absolute;
-    top: 310px;
-    left: 720px;
+    top: 240px;
+    left: 770px;
     border: 4px solid hsl(0, 0%, 100%);
     border-radius: 50px;
     background-color: hsl(0, 0%, 100%);
@@ -61,8 +61,8 @@ body {
 
 .Victor {
     position: absolute;
-    top: 430px;
-    left: 710px;
+    top: 365px;
+    left: 760px;
     color: hsl(229, 23%, 23%);
     font-size: 18px;
     font-weight: 700;
@@ -76,8 +76,8 @@ body {
 
 .London {
     position: absolute;
-    top: 460px;
-    left: 740px;
+    top: 395px;
+    left: 795px;
     font-size: 18px;
     font-weight: 400;
     color:  hsl(0, 0%, 59%)
@@ -85,8 +85,8 @@ body {
 
 hr {
     position: absolute;
-    top: 520px;
-    left: 595px;
+    top: 460px;
+    left: 650px;
     width: 344px;
     color:  hsl(227, 10%, 46%);
     opacity: 0.1;
@@ -96,8 +96,8 @@ footer {
     display: flex;
     justify-content: space-evenly;
     position: absolute;
-    top: 550px;
-    left: 620px;
+    top: 475px;
+    left: 670px;
     line-height: 1.5;
 }
 
