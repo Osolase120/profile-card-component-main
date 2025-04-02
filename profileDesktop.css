@@ -12,8 +12,8 @@ body {
 
 .bg-pattern-top {
     height: 25rem;
-    margin-top: -170px;
-    margin-left: -250px;
+    margin-top: -190px;
+    margin-left: -210px;
 }
 
 
@@ -21,16 +21,16 @@ body {
 .bg-pattern-card {
     position: relative;
     top: -90px;
-    left: 11px;
-   border-top-left-radius: 10px;
-   border-top-right-radius: 10px;
-   z-index: 99;
+    left: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: 99;
 }
 
 .second-div {
     position: relative;
     top: -90px;
-    left: -2px;
+    left: 17px;
     height: 260px;
     width: 350px;
     border: 1px solid  hsl(0, 0%, 100%);
@@ -54,8 +54,8 @@ body {
 
 .image-victor {
     position: absolute;
-    top: 240px;
-    left: 130px;
+    top: 220px;
+    left: 150px;
     border: 4px solid hsl(0, 0%, 100%);
     border-radius: 50px;
     background-color: hsl(0, 0%, 100%);
@@ -63,8 +63,8 @@ body {
 
 .Victor {
   position: absolute;
-  top: 360px;
-  left: 120px;
+  top: 345px;
+  left: 140px;
   color: hsl(229, 23%, 23%);
   font-size: 18px;
   font-weight: 700;
@@ -78,16 +78,16 @@ body {
 
 .London {
     position: absolute;
-    top: 390px;
-    left: 149px;
+    top: 375px;
+    left: 175px;
     font-size: 18px;
     color:  hsl(0, 0%, 59%)
 }
 
 hr {
     position: absolute;
-    top: 440px;
-    left: 15px;
+    top: 430px;
+    left: 33px;
     width: 344px;
     color:  hsl(227, 10%, 46%);
     opacity: 0.1;
