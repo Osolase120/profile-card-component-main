@@ -6,7 +6,10 @@
 
 body {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    display: block;
     font-family: "Kumbh Sans", serif;
     background-color: hsl(185, 75%, 39%);
 }
